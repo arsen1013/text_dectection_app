@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+/Lib 
+/Scripts
+pyven.cfg
+
+#폴더를 등록해줄때 / 를 해주면 된다. 
